@@ -1,4 +1,21 @@
-# -README.md
-<h1> hey! im improving my skills </h1>
+
+<h1> Hello! My Name Is Anita Atashpour </h1>
+<p>
+  I'm a computer major 💻  <br>
+  currently learning 
+  <b>HTML,CSS AND JAVA SCRIPT</b>
+
+  trying to get improved everyday :-D
+</p>
+
+👉 Interested in Web Design, Front-End Development, and Computer Science
+--
 <br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6827b1a0c0bc32867ef4065f?variant=dark&roadmaps=html" alt="roadmap.sh"/></a>
+<b>MY SKILLS </b>
+<ul>
+<li>html -  intermediate </li>  
+<li>css - intermediate</li>
+<li>js - beginner</li>  
+</ul>
+
+
